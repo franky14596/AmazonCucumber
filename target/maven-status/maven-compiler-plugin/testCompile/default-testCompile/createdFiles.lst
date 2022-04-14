@@ -1,0 +1,6 @@
+com\amazon\stepdefinitons\Runnerclass.class
+com\amazon\stepdefinitons\ShoesValidation.class
+com\amazon\stepdefinitons\Hooks.class
+com\amazon\objectrepository\LaptopValidationPage.class
+com\amazon\resources\CommonActions.class
+com\amazon\stepdefinitons\LaptopValidation.class
